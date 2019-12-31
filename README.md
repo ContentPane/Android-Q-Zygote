@@ -1,2 +1,2 @@
 # Android-Q-Zygote
-Zygote source code on Android Q.
+Zygote source code of startup on Android Q.
